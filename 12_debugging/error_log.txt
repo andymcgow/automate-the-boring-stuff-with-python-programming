@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "/Users/andymcgow/Library/CloudStorage/GoogleDrive-andy.mcgow@gmail.com/My Drive/Python/Automate the Boring Stuff with Python Programming/12 - Debugging/raise_and_assert_statments.py", line 26, in <module>
+    raise Exception("This is the error message.")
+Exception: This is the error message.
+Traceback (most recent call last):
+  File "/Users/andymcgow/Library/CloudStorage/GoogleDrive-andy.mcgow@gmail.com/My Drive/Python/Automate the Boring Stuff with Python Programming/12 - Debugging/raise_and_assert_statments.py", line 27, in <module>
+    raise Exception("This is the error message.")
+Exception: This is the error message.
+Traceback (most recent call last):
+  File "/Users/andymcgow/Library/CloudStorage/GoogleDrive-andy.mcgow@gmail.com/My Drive/Python/Automate the Boring Stuff with Python Programming/12 - Debugging/raise_and_assert_statments.py", line 27, in <module>
+    raise Exception("This is the error message.")
+Exception: This is the error message.
